@@ -22,8 +22,6 @@ Linkedin: https://www.linkedin.com/in/zane-el-abedean-hamadi-a47b1a215/
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zanehamadi&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zanehamadi&langs_count=5&theme=tokyonight)]()
-
 
 <h3> My skills are: </h3>
 
