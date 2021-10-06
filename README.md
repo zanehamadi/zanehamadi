@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> I'm Zane Hamadi, I am a full stack web developer who has been enthralled with computers since I was a kid! I started to get hooked on everything computers back when I used to play COunter-Strike in Internet Cafes in Lebanon. I later ended up building my first computer in Middle School, and have been learning software development since! 
+<p> I'm Zane Hamadi, I am a full stack web developer who has been enthralled with computers since I was a kid! I started to get hooked on everything computers back when I used to play Counter-Strike in Internet Cafes in Lebanon. I later ended up building my first computer in Middle School, and have been learning software development since! 
 
 Linkedin: https://www.linkedin.com/in/zane-el-abedean-hamadi-a47b1a215/
 </p>
