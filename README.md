@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 <p> A full-stack application called Ludus, which uses JavaScript to fetch Steam's API to create an in-depth filtering system to aid users in finding the perfect game. With React's dynamic rendering, Ludus displays a questionnaire for users to go through so they can filter a rich database thoroughly. The categories/genres the users pick will then be sent to the backend, and will be filtered using Python and Flask SQLAlchemy. The filtered games will then be sent to the Redux store, and display for users to pick through, allowing them to add the games to lists that are displayed on their profile. 
 
-Live Link: https://ludus-search.herokuapp.com/
+Live Link: https://ludus-search.herokuapp.com/ 
 </p>
 
