@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [AngelList](https://angel.co/u/zane-el-abedean-hamadi)
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zanehamadi&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zanehamadi&count_private=true&theme=tokyonight&showicons=true)](https://github.com/zanehamadi?tab=repositories)
 
 
 <h3> My skills are: </h3>
