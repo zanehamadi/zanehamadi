@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 <h3> Project(s) that I am currently working on: </h3>
 
+<a href="https://github.com/zanehamadi/ludus"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/zanehamadi/ludus.png" width="460px"></a>
+
 <h4><a href="https://github.com/zanehamadi/Ludus">Ludus</a></h4>
 
 <p> A full-stack application called Ludus, which uses JavaScript to fetch Steam's API to create an in-depth filtering system to aid users in finding the perfect game. With React's dynamic rendering, Ludus displays a questionnaire for users to go through so they can filter a rich database thoroughly. The categories/genres the users pick will then be sent to the backend, and will be filtered using Python and Flask SQLAlchemy. The filtered games will then be sent to the Redux store, and display for users to pick through, allowing them to add the games to lists that are displayed on their profile. 
