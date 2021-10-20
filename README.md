@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 <h3> Project(s) that I am currently working on: </h3>
 
-<br>
 
 <h4><a href="https://github.com/zanehamadi/Ludus">Ludus</a></h4>
 
