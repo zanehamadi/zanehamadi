@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p> I'm Zane Hamadi, I am a full stack web developer who has been enthralled with computers since I was a kid! I started to get hooked on everything computers back when I used to play Counter-Strike in Internet Cafes in Lebanon. I later ended up building my first computer in Middle School, and have been learning software development since!
-  
+
+[Personal Site](zanehamadi.com)
+<br>
 [Linkedin](https://www.linkedin.com/in/zane-el-abedean-hamadi-a47b1a215/)
 <br>
 [AngelList](https://angel.co/u/zane-el-abedean-hamadi)
