@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 </p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zanehamadi&count_private=true&theme=omni&showicons=true)](https://github.com/zanehamadi?tab=repositories)
-
 <h3> My skills are: </h3>
 
 - JavaScript
