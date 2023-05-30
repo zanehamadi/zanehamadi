@@ -1,4 +1,4 @@
-<h2> Hey, I'm Zane el Abedean Hamadi 👋🚀 </h2>
+<h2> Zane el Abedean Hamadi  </h2>
 
 <!--
 **zanehamadi/zanehamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
