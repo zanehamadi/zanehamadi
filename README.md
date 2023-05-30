@@ -26,23 +26,7 @@ Here are some ideas to get you started:
 
 <h3> My skills are: </h3>
 
-- JavaScript
-- Python
-- React
-- Redux
-- PostgreSQL
-- Node.js
-- CSS
-- HTML
-- Being stuck in Gold for 3 seasons straight on League of Legends (it's the meta I swear)
-- Docker
-- SQL
-- Flask
-- SQLAlchemy
-- Playing Minecraft Steve on Smash Ultimate
-- Git
-- Pug
-- Jinja
+JavaScript, C#, .NET, Python, React, Redux, Angular, NGRX, PostgreSQL, Node.js, CSS, HTML, Being stuck in Gold for 3 seasons straight on League of Legends (it's the meta I swear), Docker, SQL, Flask, SQLAlchemy, Playing Minecraft Steve on Smash Ultimate, Git, Pug, Jinja
 
 <h3> Project(s) that I am currently working on: </h3>
 
